@@ -4,7 +4,7 @@ body {
 .hole {
   display: flex;
   justify-content: space-between;
-  padding: 0px 150px;
+  
 }
 .left h1 {
   padding-left: 50px;
